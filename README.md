@@ -1,8 +1,5 @@
 # HTTP status codes
 
-| **Current** | [Legacy (PHP <8.1)](https://github.com/hyqo/http-codes/tree/php7.2) | 
-|-------------|---------------------------------------------------------------------|
-
 ![Packagist Version](https://img.shields.io/packagist/v/hyqo/http-codes?style=flat-square)
 ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/hyqo/http-codes?style=flat-square)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/hyqo/http-codes/tests.yml?branch=main&label=tests&style=flat-square)
